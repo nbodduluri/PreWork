@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tora*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tora** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Nikhil Bodduluri**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
@@ -30,15 +30,16 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/N7zWm7fI7Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with recordIt.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Using Auto Layout to make sure frames don't collide.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Nikhil Bodduluri]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
